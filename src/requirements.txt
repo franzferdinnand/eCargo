@@ -5,6 +5,7 @@ Django==4.1.7
 django-extensions==3.2.1
 django-phonenumber-field==7.0.2
 flake8==6.0.0
+graphviz==0.20.1
 isort==5.12.0
 mccabe==0.7.0
 mypy-extensions==1.0.0
@@ -14,7 +15,9 @@ phonenumbers==8.13.7
 Pillow==9.4.0
 platformdirs==3.0.0
 pycodestyle==2.10.0
+pydot==1.4.2
 pyflakes==3.0.1
+pyparsing==3.0.9
 sqlparse==0.4.3
 tomli==2.0.1
 typing_extensions==4.5.0
